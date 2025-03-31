@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Salut, moi c'est [Samira] !<br>
+👋 Salut, moi c'est Samira !<br>
 🚀 Passionné de programmation, j’aime explorer et expérimenter avec différents concepts et technologies.<br>
 🌙 Oiseau de nuit 🦉, je préfère coder quand tout est calme.
 <br><br>

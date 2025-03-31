@@ -3,11 +3,13 @@
 🚀 Passionné de programmation, j’aime explorer et expérimenter avec différents concepts et technologies.<br>
 🌙 Oiseau de nuit 🦉, je préfère coder quand tout est calme.
 <br><br>
-🔥 Ce que tu trouveras ici :<br>
-✅ Projets et expérimentations en programmation (et des émojis ✨).<br>
+# 🔥 Ce que tu trouveras ici :<br>
+✅ Projets et expérimentations en programmation (formation Holberton School).<br>
+✅ Des émojis. ✨<br>
 ✅ Défis et résolutions de problèmes pour affûter mes compétences.
 <br><br>
-💡 Ma philosophie :<br>"Ne lâche rien, on n'a rien sans rien." 💪
+# 💡 Ma philosophie :<br>
+"Ne lâche rien, on n'a rien sans rien." 💪
 <br><br>
 J’aime travailler en équipe, apprendre en partageant et relever de nouveaux défis.<br><br>
 

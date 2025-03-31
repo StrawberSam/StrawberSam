@@ -20,7 +20,6 @@ J’aime travailler en équipe, apprendre en partageant et relever de nouveaux d
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=StrawberSam&theme=flag-india&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=StrawberSam&theme=flag-india&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=StrawberSam&theme=flag-india&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
